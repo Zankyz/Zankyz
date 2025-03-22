@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zankyz</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 📫 How to reach me **On discord**
+<p 🔭 I’m currently working on Game Design>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
