@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zankyz</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate frontend developer and 3D Designer from France</h3>
 
-<p 🔭 I’m currently working on Game Design>
 
 
 <h3 align="left">Languages and Tools:</h3>
