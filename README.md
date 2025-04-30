@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and 3D Designer from France</h3>
 
 <h1 align="left">Connect with me:</h1>
-<h3 align="left">Sketchfab : https://sketchfab.com/Hubito24</h3>
+<h3 align="left">Sketchfab : https://sketchfab.com/Zankyz</h3>
 <h3 align="left">Steam : Zankyz</h3>
 <h3 align="left">Discord : Zankyz</h3>
 <p align="left">
